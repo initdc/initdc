@@ -6,4 +6,4 @@ it should not use `cp` only, it should `rm` all content  before `cp`, to avoid t
 
 New repo has build, here is the link: https://github.com/pliplive/kodbox
 
-Check  out the offical open source repo by the offical **KodCloud team**, **https://github.com/kalcaddle/kodbox**
+Check  out the official open source repo by the official **KodCloud team**, **https://github.com/kalcaddle/kodbox**
